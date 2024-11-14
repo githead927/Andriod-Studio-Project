@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ic_testing"
+                    android:title="LOGIN" />
+                <item
+                    android:id="@+id/nav_decide"
+                    android:icon="@drawable/ic_testing"
+                    android:title="DECIDE" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_testing"
+                    android:title="LOGOUT" />
+            </group>
+
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_testing"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_home1"
+            android:icon="@drawable/ic_testing"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_home2"
+            android:icon="@drawable/ic_testing"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_testing"
+            android:title="FEEDBACK" />
+
+    </group>
+    <item android:title="SHARE">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_share"
+                    android:checkableBehavior="none"
+                    android:icon="@drawable/ic_testing"
+                    android:title="SHARE" />
+                <item
+                    android:id="@+id/nav_rateus"
+                    android:icon="@drawable/ic_testing"
+                    android:title="RATE_US" />
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="bikerentals">BIKE RENTALS</string>
+
+    <string name="app_name">Bike Rentals</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_one_time_password_on_this_mobile_number">We will send you One Time Password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="_91">+91-</string>
+    <string name="otp">OTP</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">VERIFY</string>
+    <!--ADMIN-->
+    <string name="adminlogin">ADMINLOGIN</string>
+
+    <!--USERHOME-->
+    <string name="appname">BIKE RENTALS</string>
+    <string name="searchbar">Search...</string>
+    <string name="features">FEATURES</string>
+
+    <!--Navigation information-->
+    <string name="logo"></string>
+    <string name="slogan"></string>
+
+    <!--login -->
+    <string name="email">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="resetpass">Forget Password?</string>
+    <string name="register">Register</string>
+    <string name="new_registration">New User?Register</string>
+
+    <string name="fullname">NAME</string>
+
+    <!--bikes-->
+    <string name="Activa">Honda Activa 6G Engine\n The Honda Activa 6G uses a 109.51cc with fuel injection that produces 7.79PS at 8000rpm and 8.79Nm at 5250rpm. In comparison, the Activa 5G develops 7.96PS at 7500rpm and 9Nm at 5500rpm from its carbureted engine. The 6G is claimed to get a 10 percent bump in fuel efficiency over the BS4 Activa. The Honda Activa 6G gets a telescopic fork up front at the rear, it gets an adjustable hydraulic monoshock. It rolls on a 12-inch wheel at the front. However, there are no alloy wheels or disc brakes on offer, so you have to make do with steel wheels and drum brakes at both ends.</string>
+</resources>
